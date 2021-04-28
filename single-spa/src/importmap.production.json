@@ -1,0 +1,12 @@
+{
+  "imports": {
+    "@cr/root-config": "https://cdn.jsdelivr.net/gh/araujocristian/cdn/micro-front-end-single-spa/cr-root-config.js",
+    "@cr/react-single": "https://cdn.jsdelivr.net/gh/araujocristian/cdn/micro-front-end-single-spa/cr-react-single.js",
+    "@cr/react-multiples": "https://cdn.jsdelivr.net/gh/araujocristian/cdn/micro-front-end-single-spa/cr-react-multiples.js",
+    "@cr/react-parcel": "https://cdn.jsdelivr.net/gh/araujocristian/cdn/micro-front-end-single-spa/cr-react-parcel.js",
+    "@cr/react-route": "https://cdn.jsdelivr.net/gh/araujocristian/cdn/micro-front-end-single-spa/cr-react-route.js",
+    "@cr/utils": "https://cdn.jsdelivr.net/gh/araujocristian/cdn/micro-front-end-single-spa/cr-utils.js",
+    "@cr/react-lazy": "https://cdn.jsdelivr.net/gh/araujocristian/cdn/micro-front-end-single-spa/cr-react-lazy.js",
+    "@cr/react-header": "https://cdn.jsdelivr.net/gh/araujocristian/cdn/micro-front-end-single-spa/cr-react-header.js"
+  }
+}

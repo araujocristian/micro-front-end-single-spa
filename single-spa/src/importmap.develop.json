@@ -1,0 +1,12 @@
+{
+  "imports": {
+    "@cr/root-config": "http://localhost:9000/cr-root-config.js",
+    "@cr/react-single": "http://localhost:8500/cr-react-single.js",
+    "@cr/react-multiples": "http://localhost:8500/cr-react-multiples.js",
+    "@cr/react-parcel": "http://localhost:8501/cr-react-parcel.js",
+    "@cr/react-route": "http://localhost:8500/cr-react-route.js",
+    "@cr/utils": "http://localhost:8600/cr-utils.js",
+    "@cr/react-lazy": "http://localhost:8500/cr-react-lazy.js",
+    "@cr/react-header": "http://localhost:8700/cr-react-header.js"
+  }
+}
